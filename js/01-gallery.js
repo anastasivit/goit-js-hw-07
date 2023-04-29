@@ -1,5 +1,6 @@
 import { galleryItems } from "./gallery-items.js";
 // Change code below this line
+
 function renderGallery(images) {
   return images
     .map(
